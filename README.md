@@ -1,0 +1,5 @@
+- 👋 Olá meu nome @TechAlex07
+- 👀 Eu estou aprendendo atualmente a programar jogos no Scratch e no JavaScript
+- 🌱 Tenho curiosidades em aprender páginas na web.
+- 💞️ Vocês podem entrar em contato comigo através do email: alex.sandro.santos@escola.pr.gov.br 
+- 
